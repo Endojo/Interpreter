@@ -1,9 +1,19 @@
-# Dies ist ein Kommentar
-
 # Bis jetzt sind alle Zahlen vom Typ double,
 # Später durch http://chschneider.eu/programming/mpfr_real/ ersetzt
 
-print 1.123456789123456789
-print
-print "Sonderzeichen: ÄäÖöÜüß"
-print
+
+# Test eines rein deklarativen Programms
+
+# Programm das 0! ... n! ausgibt:
+
+# Variablen und Funktionen richten sich nach der rechten seite
+# z.B.
+
+pi = real (3.14159265359)
+
+factorial(int n > 0) = n * factorial(n - 1)
+factorial(0) = 1
+
+max = int (system.console.input)
+
+system.console.ouput = factorial([1 ... max])
