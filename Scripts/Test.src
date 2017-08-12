@@ -1,0 +1,9 @@
+# Dies ist ein Kommentar
+
+# Bis jetzt sind alle Zahlen vom Typ double,
+# Später durch http://chschneider.eu/programming/mpfr_real/ ersetzt
+
+print 1.123456789123456789
+print
+print "Sonderzeichen: ÄäÖöÜüß"
+print
